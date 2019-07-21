@@ -1,0 +1,5 @@
+屏幕录制软件的安装：
+
+ yum install recordmydesktop gtk-recordmydesktop
+
+ 安好后在Applications->Sound&Video中点击gtk-recordMydesktop就可以使用了。
